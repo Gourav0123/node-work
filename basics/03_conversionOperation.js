@@ -35,5 +35,4 @@ console.log((1 + 2 + "2"));  // 32 ~ Faaaaaaaaaah , what ?
 console.log((3 + 4) * 5 % 3);
 console.log(4+5);
 console.log("Added more lines to the code");
-
-
+console.log("Added authors name and email in the git log")
