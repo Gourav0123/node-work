@@ -6,15 +6,6 @@
 // console.log(typeof valueInNumber);
 // console.log(valueInNumber);
 
-// "33" => 33
-// "33abc" => NaN
-// true => 1; false => 0
-
-// let isLoggedIn = "Gourav";
-// let booleanIsLoggedIn = Boolean(isLoggedIn)
-// console.log(booleanIsLoggedIn);
-
-
 //********************************Operation******************************
 
 let value = 3;
@@ -36,3 +27,13 @@ console.log((3 + 4) * 5 % 3);
 console.log(4+5);
 console.log("Added more lines to the code");
 console.log("Added authors name and email in the git log")
+
+//"33" => 33
+//"33abc" => NaN
+// true => 1; false => 0
+
+let isLoggedIn = "Gourav";
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn);
+
+console.log("resolved conflicts on the git")
