@@ -37,3 +37,4 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
 
 console.log("resolved conflicts on the git")
+
